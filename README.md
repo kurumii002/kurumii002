@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurumii002
-- 👀 I’m interested in ???
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ???
+- 👀 I’m interested in games...
+- 🌱 I’m currently learning C++, Kotlin & Python
+- 💞️ I’m looking to collaborate on idk...
 - 📫 How to reach me ???
 
 <!---
