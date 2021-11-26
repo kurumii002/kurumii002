@@ -1,5 +1,5 @@
 ## 👋 Hola! Soy kurumii002! ![](https://komarev.com/ghpvc/?username=kurumii002) 
-Actualmente soy un desarrollador freelancer, pero también un estudiante de Ingeniería de Software. Me especializo principalmente en el desarrollo de backend con lenguajes como Java, JS, TS, Python y desarrollo en bases de datos SQL, pero también estoy aprendiendo a dominar un poco más el front-end poco a poco :)... Los principales idiomas que hablo son: `EN/ES`
+Actualmente soy un desarrollador freelancer junior, pero también un estudiante de Ingeniería de Software. Me especializo principalmente en el desarrollo de backend con lenguajes como Java, JS, TS, Python y programación en bases de datos SQL (PLSQL), pero también estoy aprendiendo a dominar un poco más el front-end poco a poco, por ahora conozco React a nivel intermedio :). Los principales idiomas que hablo son: `EN/ES`
 
 ## ℹ️ Sobre mí: 
 - 🚀 Estoy desarrollando 3 proyectos que pronto los publicaré y tengo mucho emoción por ello
