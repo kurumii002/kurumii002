@@ -1,4 +1,4 @@
-## 👋 Hola! Soy kurumii002! ![](https://komarev.com/ghpvc/?username=kurumii002) 
+## 👋 Hola! Soy J. Ortega! ![](https://komarev.com/ghpvc/?username=kurumii002) 
 Soy un desarrollador junior, me especializo en el desarrollo web tanto en el frontend y backend, mi fortaleza es más el backend :). Manejo diversas tecnologías y librerías como React, Angular, Spring, Express y .NET. Los principales idiomas que hablo son: `EN/ES`
 
 ## ℹ️ Sobre mí: 
